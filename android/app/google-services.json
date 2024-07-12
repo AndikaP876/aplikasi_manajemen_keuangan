@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410132242678",
+    "project_id": "aplikasi-manajemen-keuan-5840e",
+    "storage_bucket": "aplikasi-manajemen-keuan-5840e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410132242678:android:ff154bb07d3660be090cd7",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_manajemen_keuangan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDID0IW8s19PHP_841jXeB3PfeiMPqn-Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
